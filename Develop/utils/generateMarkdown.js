@@ -45,7 +45,6 @@ function generateMarkdown(data) {
     * ## Credits
     * ${data.credits}
     * 
-    * ## License
     * ${renderLicenseSection(data.license)}, ${renderLicenseLink(data.license)}
     * 
     * ## Badges

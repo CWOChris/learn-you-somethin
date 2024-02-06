@@ -1,4 +1,4 @@
-# g
+# r
     [![License](https://img.shields.io/badge/License-mit-blue.svg)](https://opensource.org/licenses/mit)
     ## Description
     d
@@ -13,32 +13,31 @@
     * [Badges](#badges)
     * 
     * ## Installation
-    * w
+    * h
     * 
     * ## Usage
-    * g
+    * e
     * 
     * ## Credits
-    * t
+    * bg
     * 
-    * ## License
     * ## License
     This project is licensed under the mit license., https://opensource.org/licenses/mit
     * 
     * ## Badges
-    * v
+    * re
     * 
     * ## Features
-    * re
+    * b
     * 
     * ## Contributing
-    * re
+    * c
     * 
     * ## Tests
-    * f
+    * y
     * 
     * ## Questions
-    * If you have any questions, you can reach me at h or visit my GitHub profile at [e](https://github.com/e).
+    * If you have any questions, you can reach me at d or visit my GitHub profile at [e](https://github.com/e).
     * 
     * ## Generated README.md was created by @CWOChris
   

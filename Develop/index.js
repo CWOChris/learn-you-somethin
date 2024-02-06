@@ -59,7 +59,7 @@ const questions = [
         type: 'input',
         name: 'features',
         message: 'List any features you would like to include:'
-    }
+    },
     {
         type: 'list',
         name: 'license',

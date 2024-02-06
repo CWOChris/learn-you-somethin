@@ -62,7 +62,7 @@ function generateMarkdown(data) {
     * ## Questions
     * If you have any questions, you can reach me at ${data.email} or visit my GitHub profile at [${data.github}](https://github.com/${data.github}).
     * 
-    * ## Generated README.md by @CWOChris
+    * ## Generated README.md was created by @CWOChris
   `;
   }
 

@@ -116,3 +116,14 @@ function writeToFile(fileName, data) {
     err? console.error(err) : console.log('Success!')
     );
 }
+
+// TODO: Create a function to initialize app
+function init() {
+    inquirer.prompt(questions).then((answers) => {
+        console.log(answers);
+        writeToFile('README.md', generateMarkdown(answers));
+    });
+}
+
+// Function call to initialize app
+init();

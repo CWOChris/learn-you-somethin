@@ -1,7 +1,7 @@
-# Salami Stretcher
-    [![License](https://img.shields.io/badge/License-undefined-blue.svg)](https://opensource.org/licenses/undefined)
+# w
+    [![License](https://img.shields.io/badge/License-mit-blue.svg)](https://opensource.org/licenses/mit)
     ## Description
-    Repository that will control your robotic salami-stretching-arm
+    e
     ## Table of Contents
     * [Installation](#installation)
     * [Usage](#usage)
@@ -13,30 +13,31 @@
     * [Badges](#badges)
     * 
     * ## Installation
-    * Install this code into the root directory of your SSD. Let's skip the pleasantries, am-I-rite?
+    * f
     * 
     * ## Usage
-    * Whenever you're turned on, it will stretch your salami to completion
+    * s
     * 
     * ## Credits
-    * I am the mastur of this project, a loner, if you will
+    * s
     * 
-    * , https://opensource.org/licenses/undefined
+    * ## License
+    * , https://opensource.org/licenses/mit
     * 
     * ## Badges
-    * Stretched to completion
+    * e
     * 
     * ## Features
-    * Try the "light touch" and "tickler" settings
+    * b
     * 
     * ## Contributing
-    * Contributions in the vacuuming and cupping department will be necessary at some point
+    * f
     * 
     * ## Tests
-    * Eh hem, sorry, got lost. Salami stuck in vacuum cleaner
+    * w
     * 
     * ## Questions
-    * If you have any questions, you can reach me at NYsFinest@Salami.com or visit my GitHub profile at [@girthGOON](https://github.com/@girthGOON).
+    * If you have any questions, you can reach me at e or visit my GitHub profile at [b](https://github.com/b).
     * 
     * ## Generated README.md was created by @CWOChris
   

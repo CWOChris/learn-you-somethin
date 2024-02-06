@@ -108,9 +108,6 @@ const questions = [
             'Zlib'
         ],
         default: 'MIT',
-        filter: function(val) {
-            return val.toLowerCase();
-        },
         validate: function(val) {
             return val !== '';
         },

@@ -49,7 +49,7 @@ ${data.description}
 ## Credits
 * ${data.credits}
 
-${renderLicenseSection(data.license)}, ${renderLicenseLink(data.license)}
+${renderLicenseSection(data.license)} ${renderLicenseLink(data.license)}
 
 ## Badges
 * ${data.badges}

@@ -1,8 +1,8 @@
-# 1
+# ONE
 * [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 * 
 ## Description
-1
+Only description.
 * 
 ## Table of Contents
 * [Installation](#installation)
@@ -17,30 +17,30 @@
 * [Badges](#badges)
 * 
 ## Installation
-* 1
+* Install once.
 * 
 ## Usage
-* 1
+* Use once.
 * 
 ## Credits
-* 1
+* @theonly1
 * 
 ## License
 This project is licensed under the MIT license., https://opensource.org/licenses/MIT
 * 
 ## Badges
-* 1
+* First Place
 * 
 ## Features
-* 1
+* Individual Feature
 * 
 ## Contributing
-* 1
+* Contribute once.
 * 
 ## Tests
-* 1
+* Test once.
 * 
 ## Questions
-* If you have any questions, you can reach me at 1 or visit my GitHub profile at [1](https://github.com/1).
+* If you have any questions, you can reach me at one@once.com or visit my GitHub profile at [@once](https://github.com/@once).
 * 
 ## Generated README.md was created by @CWOChris

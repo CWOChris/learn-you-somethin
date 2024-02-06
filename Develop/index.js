@@ -97,7 +97,7 @@ const questions = [
             'Unlicense',
             'Zlib'
         ],
-        default: 'MIT'
+        default: 'MIT',
         filter: function(val) {
             return val.toLowerCase();
         },

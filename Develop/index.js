@@ -109,9 +109,6 @@ const questions = [
         validate: function(val) {
             return val !== '';
         },
-        when: function(answers) {
-            return answers.license === 'other';
-        },
     },
 ];
 

@@ -56,6 +56,11 @@ const questions = [
         message: 'List any badges you would like to include:'
     },
     {
+        type: 'input',
+        name: 'features',
+        message: 'List any features you would like to include:'
+    }
+    {
         type: 'list',
         name: 'license',
         message: 'Choose a license for your project:',

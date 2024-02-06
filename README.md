@@ -17,7 +17,7 @@ When you cd into the Develop folder and execute node index.js, you will be promp
 * [Badges](#badges)
 
 ## Installation
-* 1. Open repo in VSCode 2. Open integrated terminal 3. Execute 'npm i' command 4. Execute 'npm i inquirer@8.2.4' command 5. cd into 'Develop' folder 6. Execute 'node index.js' command 7. Follow and answer the prompts
+* First step: Open repo in VSCode 2. Open integrated terminal 3. Execute 'npm i' command 4. Execute 'npm i inquirer@8.2.4' command 5. cd into 'Develop' folder 6. Execute 'node index.js' command 7. Follow and answer the prompts
 
 ## Usage
 * Use whenever you need to generate a professional README.md file for personal, or professional, use.

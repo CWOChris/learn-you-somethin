@@ -97,4 +97,15 @@ const questions = [
             'Unlicense',
             'Zlib'
         ],
-    }
+        default: 'MIT'
+        filter: function(val) {
+            return val.toLowerCase();
+        },
+        validate: function(val) {
+            return val !== '';
+        },
+        when: function(answers) {
+            return answers.license === 'other';
+        },
+    },
+];

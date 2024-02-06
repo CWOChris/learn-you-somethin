@@ -1,5 +1,6 @@
 # Professional README.md Generator - aka "Learn you somethin"
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+*
+*[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 * 
 ## Description
 When you cd into the Develop folder and execute the node index.js command, you will be prompted with a series of questions to facilitate in generating a professional looking README.md file.

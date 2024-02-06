@@ -61,6 +61,11 @@ const questions = [
         message: 'List any features you would like to include:'
     },
     {
+        type: 'input',
+        name: 'email',
+        message: 'What is your email address?',
+    },
+    {
         type: 'list',
         name: 'license',
         message: 'Choose a license for your project:',

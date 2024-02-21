@@ -16,7 +16,7 @@ function renderLicenseSection(license) {
     if (license=== 'None') {
         return ''
     }
-    return `## License
+    return `## :key: License
 This project is licensed under the ${license} license.`
 }
 
@@ -25,10 +25,10 @@ function generateMarkdown(data) {
     return `# ${data.title}
 ${renderLicenseBadge(data.license)}
 
-## Description
+## :ledger: Description
 ${data.description}
 
-## Table of Contents
+## :bookmark_tabs: Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
@@ -40,33 +40,33 @@ ${data.description}
 * [Questions](#questions)
 * [Badges](#badges)
 
-## Installation
+## :hourglass: Installation
 * ${data.installation}
 
-## Usage
+## :arrows_counterclockwise: Usage
 * ${data.usage}
 
-## Credits
+## :clapper: Credits
 * ${data.credits}
 
 ${renderLicenseSection(data.license)} ${renderLicenseLink(data.license)}
 
-## Badges
+## :name_badge: Badges
 * ${data.badges}
 
-## Features
+## :mag: Features
 * ${data.features}
 
-## Contributing
+## :muscle: Contributing
 * ${data.contributing}
 
-## Tests
+## :card_index: Tests
 * ${data.tests}
 
-## Questions
+## :interrobang: Questions
 * If you have any questions, you can reach me at ${data.email} or visit my GitHub profile at [${data.github}](https://github.com/${data.github}).
 
-## Generated README.md was created by @CWOChris
+## :copyright: README.md created by @CWOChris
 `;
 }
 
